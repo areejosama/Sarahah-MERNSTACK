@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@100&display=swap');
+
+.nabvar{
+  background-color: #10BBB3;
+  font-family: 'Cairo', sans-serif;
+  color: white;
+}
+.navbar-nav{
+  font-size: 14px;
+}
+.signup, .mesgs, .login, .account, .send{
+  background-color:#F5F8FA;
+}
+
+.btn{
+  color: #0da39c;
+  background-color: transparent;
+  border-color: #10BBB3;
+}
+
+.btn:hover{
+  background-color:#0da39c;
+  color: white;
+}
+
+.footer-content{
+  background-color: rgba(16, 187, 179, 0.11);
+  font-size: 16px;
+  font-family: 'Cairo', sans-serif;
+}
+.here{
+  color:#0cc8c9;
+}
+.copyright{
+  margin-top: 90px;
+}
+.forgetpass{
+  color: gray;
+}
+.forgetpass:hover{
+  color:#0cc8c9;
+}
+
+.link{
+  color:#0cc8c9;
+}
+.link:hover{
+  color:#0cc8c9;
+}
+.btn-close{
+  font-size: 15px;
+  top:15px;
+  right: 15px;
+  opacity: 0;
+}
+.btn-close:hover{
+  opacity: 1;
+}
+
+.accordion-button, .accordion-button:not(.collapsed){
+  background-color: rgba(16, 187, 179, 0.11);
+  color: black;
+}
+.create{
+  font-size: 12px;
+}
+.m-content{
+  width: 85%;
+}
+
